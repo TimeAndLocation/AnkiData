@@ -1,25 +1,25 @@
 # Anki Study Context
-Generated: 2026-05-31 09:33 UTC
+Generated: 2026-05-31 19:03 UTC
 
 ## Summary
-- Total studied notes (non-new): 106
-- Mature notes (interval >= 21d): 5
-- Total reviews logged: 491
+- Total studied notes (non-new): 116
+- Mature notes (interval >= 21d): 9
+- Total reviews logged: 532
 - Total lapses: 10
-- Reviews in last 14 days: 491
-- Average minimum ease: 2.40
+- Reviews in last 14 days: 508
+- Average minimum ease: 2.39
 
 ## Decks (note counts)
-- Japanese Core 1000 Vocab: 80
+- Japanese Core 1000 Vocab: 90
 - Personal: 26
 
 ## Words I struggle with (top 22)
 Format: word | lapses | ease | recent_again | reps | deck
 - 買う | lapses=1 | ease=2.00 | recent_again=4 | reps=12 | Japanese Core 1000 Vocab
 - 使う | lapses=1 | ease=1.85 | recent_again=3 | reps=13 | Japanese Core 1000 Vocab
-- いつ | lapses=1 | ease=1.85 | recent_again=3 | reps=14 | Japanese Core 1000 Vocab
 - 時間 | lapses=1 | ease=2.00 | recent_again=3 | reps=10 | Japanese Core 1000 Vocab
 - 持つ | lapses=1 | ease=2.00 | recent_again=3 | reps=11 | Japanese Core 1000 Vocab
+- いつ | lapses=1 | ease=1.85 | recent_again=2 | reps=14 | Japanese Core 1000 Vocab
 - 同じ | lapses=1 | ease=2.15 | recent_again=3 | reps=10 | Japanese Core 1000 Vocab
 - 新しい | lapses=0 | ease=2.20 | recent_again=5 | reps=14 | Japanese Core 1000 Vocab
 - 思う | lapses=1 | ease=2.30 | recent_again=4 | reps=12 | Japanese Core 1000 Vocab
@@ -35,11 +35,34 @@ Format: word | lapses | ease | recent_again | reps | deck
 - 今 | lapses=0 | ease=2.35 | recent_again=2 | reps=7 | Japanese Core 1000 Vocab
 - あと | lapses=0 | ease=2.20 | recent_again=1 | reps=6 | Japanese Core 1000 Vocab
 - 子供 | lapses=0 | ease=2.20 | recent_again=1 | reps=5 | Japanese Core 1000 Vocab
-- 少ない | lapses=0 | ease=2.35 | recent_again=1 | reps=4 | Japanese Core 1000 Vocab
+- 少ない | lapses=0 | ease=2.35 | recent_again=1 | reps=5 | Japanese Core 1000 Vocab
 - まだ | lapses=0 | ease=2.50 | recent_again=1 | reps=4 | Japanese Core 1000 Vocab
 
-## Words I've studied (most recent 106 of 106)
+## Words I've studied (most recent 116 of 116)
 Format: word | mature | ivl_days | reps | deck
+- マンゴー | Y | ivl=21 | reps=3 | Personal
+- 階段 | n | ivl=12 | reps=4 | Personal
+- 新学期 | Y | ivl=23 | reps=3 | Personal
+- 直ぐ | n | ivl=3 | reps=3 | Japanese Core 1000 Vocab
+- とても | n | ivl=2 | reps=3 | Japanese Core 1000 Vocab
+- 売る | n | ivl=3 | reps=3 | Japanese Core 1000 Vocab
+- 書く | n | ivl=2 | reps=3 | Japanese Core 1000 Vocab
+- 飛ぶ | n | ivl=3 | reps=3 | Japanese Core 1000 Vocab
+- 体 | n | ivl=4 | reps=3 | Japanese Core 1000 Vocab
+- 頭 | n | ivl=4 | reps=3 | Japanese Core 1000 Vocab
+- 誰 | n | ivl=4 | reps=3 | Japanese Core 1000 Vocab
+- 好き | n | ivl=5 | reps=2 | Japanese Core 1000 Vocab
+- 大好き | n | ivl=4 | reps=2 | Japanese Core 1000 Vocab
+- 置く | n | ivl=19 | reps=4 | Japanese Core 1000 Vocab
+- 住む | n | ivl=8 | reps=4 | Japanese Core 1000 Vocab
+- 少ない | n | ivl=15 | reps=5 | Japanese Core 1000 Vocab
+- 終わる | n | ivl=10 | reps=4 | Japanese Core 1000 Vocab
+- こう | n | ivl=11 | reps=4 | Japanese Core 1000 Vocab
+- 春 | n | ivl=10 | reps=4 | Japanese Core 1000 Vocab
+- もう | n | ivl=5 | reps=7 | Japanese Core 1000 Vocab
+- 午後 | Y | ivl=30 | reps=3 | Japanese Core 1000 Vocab
+- 私 | Y | ivl=111 | reps=2 | Japanese Core 1000 Vocab
+- 大学 | n | ivl=8 | reps=4 | Japanese Core 1000 Vocab
 - 合う | n | ivl=3 | reps=3 | Personal
 - 説明 | n | ivl=3 | reps=3 | Personal
 - 交わし | n | ivl=2 | reps=3 | Personal
@@ -117,32 +140,19 @@ Format: word | mature | ivl_days | reps | deck
 - 後輩 | n | ivl=4 | reps=3 | Personal
 - 何 | n | ivl=5 | reps=2 | Personal
 - 言ったら | n | ivl=4 | reps=3 | Personal
-- 大学 | n | ivl=3 | reps=3 | Japanese Core 1000 Vocab
 - 立つ | n | ivl=4 | reps=3 | Japanese Core 1000 Vocab
-- 住む | n | ivl=3 | reps=3 | Japanese Core 1000 Vocab
 - 先生 | n | ivl=4 | reps=2 | Japanese Core 1000 Vocab
 - 今 | n | ivl=4 | reps=7 | Japanese Core 1000 Vocab
-- もう | n | ivl=3 | reps=6 | Japanese Core 1000 Vocab
 - よく | n | ivl=4 | reps=6 | Japanese Core 1000 Vocab
-- 新学期 | n | ivl=4 | reps=2 | Personal
-- 階段 | n | ivl=4 | reps=3 | Personal
 - モーティシャン | n | ivl=5 | reps=2 | Personal
-- マンゴー | n | ivl=4 | reps=2 | Personal
-- 置く | n | ivl=4 | reps=3 | Japanese Core 1000 Vocab
-- 春 | n | ivl=4 | reps=3 | Japanese Core 1000 Vocab
 - 午前 | n | ivl=5 | reps=2 | Japanese Core 1000 Vocab
-- こう | n | ivl=4 | reps=3 | Japanese Core 1000 Vocab
-- 終わる | n | ivl=4 | reps=3 | Japanese Core 1000 Vocab
-- 午後 | n | ivl=4 | reps=2 | Japanese Core 1000 Vocab
 - 行く | Y | ivl=45 | reps=4 | Japanese Core 1000 Vocab
 - 出る | n | ivl=7 | reps=6 | Japanese Core 1000 Vocab
 - 仕事 | n | ivl=18 | reps=5 | Japanese Core 1000 Vocab
 - 多い | n | ivl=7 | reps=7 | Japanese Core 1000 Vocab
-- 少ない | n | ivl=4 | reps=4 | Japanese Core 1000 Vocab
 - まだ | n | ivl=9 | reps=4 | Japanese Core 1000 Vocab
 - 所 | n | ivl=5 | reps=7 | Japanese Core 1000 Vocab
 - それ | Y | ivl=40 | reps=3 | Japanese Core 1000 Vocab
 - 見る | Y | ivl=69 | reps=3 | Japanese Core 1000 Vocab
 - これ | Y | ivl=25 | reps=4 | Japanese Core 1000 Vocab
 - 家 | n | ivl=16 | reps=3 | Japanese Core 1000 Vocab
-- 私 | n | ivl=15 | reps=1 | Japanese Core 1000 Vocab
